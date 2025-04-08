@@ -98,11 +98,11 @@ const HomeCards = ({
           </Heading>
           <Stack direction={"row"} align={"center"}>
             <Text fontWeight={800} fontSize={"xl"}>
-              ${price}
+              KES{price}
             </Text>
             {old_price && (
               <Text textDecoration={"line-through"} color={"gray.600"}>
-                ${old_price}
+                KES{old_price}
               </Text>
             )}
           </Stack>

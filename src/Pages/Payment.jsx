@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import "../css/payment.css";
-import image from "../Image/Everythingfarming.png";
+import image from "../Image/Logo.png";
 import axios from "axios";
 
 export const Payment = () => {
