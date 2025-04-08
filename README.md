@@ -1,8 +1,8 @@
 <!--  back end .env file content  -->
 
-MONGODB_URL=mongodb+srv://omkar21143:omkar21143@cluster0.kpdkldx.mongodb.net/gerdenguru?retryWrites=true&w=majority
+MONGODB_URL=mongodb+srv://tegonetworks:mutsam1949@cluster0.inalvjw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 PORT=8080
-SECRET_KEY=omkar21143
+SECRET_KEY=mutsam1949
 
 # Base URL
 

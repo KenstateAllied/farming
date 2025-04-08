@@ -1,3 +1,5 @@
+
+//mongodb+srv://tegonetworks:mutsam1949@cluster0.inalvjw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 const express = require("express");
 const app = express();
 const cors = require("cors");
