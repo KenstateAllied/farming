@@ -8,12 +8,13 @@ import { Box, Image } from "@chakra-ui/react";
 const Carouselimage = [
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/DIY-Hydroponics-Kit-Sale-online_1cf29a72-5ff9-450f-a39b-6ac63e19e1ef.png?v=1671866277",
+      "https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
+     
     id: 1,
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/best-hydroponic-nutrients-online-india_de7d1ccc-8ad2-4a60-aacd-3f051e92e2ee.jpg?v=1650813476",
+      "https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
     id: 2,
   },
   {
@@ -28,7 +29,7 @@ const Carouselimage = [
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/commercial_hydroponics_india.png?v=1647251753",
+      "https://gardenguru.in/cdn/shop/files/ShopifyCarouselFrontPage-940x303-lg.png?v=1647250959",
     id: 5,
   },
 ];

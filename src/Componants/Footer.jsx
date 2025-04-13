@@ -69,6 +69,9 @@ export default function LargeWithNewsletter() {
               <Logo color={useColorModeValue("gray.700", "white")} />
             </Box>
             <Text fontSize={"sm"}>
+              Westlands Nairobi, Eldoret Kenya Tel/ WhatsApp +254 724 052 417
+            </Text>
+            <Text fontSize={"sm"}>
               Copyright © 2025 Kenstate Allied. All rights reserved
             </Text>
             <Stack direction={"row"} spacing={6}>
