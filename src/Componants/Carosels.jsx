@@ -8,29 +8,33 @@ import { Box, Image } from "@chakra-ui/react";
 const Carouselimage = [
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
-     
+      //"https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
+      "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744647815/apples_q5fmhe.jpg",
     id: 1,
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
-    id: 2,
+      //"https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
+      "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744648484/mango_ojgnzx.jpg",
+      id: 2,
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
-    id: 3,
+      //"https://gardenguru.in/cdn/shop/files/best-in-class-hydroponics-nutrients-in-india.png?v=1647252142",
+      "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744648563/banana_v8nuxr.jpg",
+      id: 3,
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/ShopifyCarouselFrontPage-940x303-lg.png?v=1647250959",
-    id: 4,
+      //"https://gardenguru.in/cdn/shop/files/ShopifyCarouselFrontPage-940x303-lg.png?v=1647250959",
+      "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744648966/Everythingfarming_n1rup2.png",
+      id: 4,
   },
   {
     image:
-      "https://gardenguru.in/cdn/shop/files/ShopifyCarouselFrontPage-940x303-lg.png?v=1647250959",
-    id: 5,
+      //"https://gardenguru.in/cdn/shop/files/ShopifyCarouselFrontPage-940x303-lg.png?v=1647250959",
+   "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744648733/img1_gzc7ge.webp",
+      id: 5,
   },
 ];
 

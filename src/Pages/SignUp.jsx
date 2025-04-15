@@ -103,7 +103,10 @@
 
 
 import React, { useState } from "react";
-import image from "../Image/apples.png";
+//import image from "../Image/apples.png";
+//import image from "C:\Users\Grace\Desktop\projects\true-mine-3269-main\frontend\src\Image\products\apples.png";
+import appleImg from '../Image/apples.png';
+
 import "../css/sign.css";
 
 export const Signup = () => {
@@ -141,7 +144,7 @@ export const Signup = () => {
 
   return (
     <>
-      <img className="image" src={image} alt="error" width={"95%"} />
+      <img className="image" src={Image} alt="error" width={"95%"} />
       <div className="img-head">
         <h1>HOME</h1>
         <h1>CREATE ACCOUNT</h1>

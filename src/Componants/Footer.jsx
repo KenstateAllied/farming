@@ -18,7 +18,8 @@ import { BiMailSend } from "react-icons/bi";
 const Logo = (props) => {
   return (
     <img
-      src="https://gardenguru.in/cdn/shop/files/logo.png?v=1623916460"
+      //src="https://gardenguru.in/cdn/shop/files/logo.png?v=1623916460"
+      src="https://res.cloudinary.com/dzc7j0duu/image/upload/v1744646349/Logo_nqxyyk.png"
       alt="Logo"
     />
   );
